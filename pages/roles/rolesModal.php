@@ -11,7 +11,7 @@
         <input type="hidden" name="id" id="id">
             <div class="col-md-12">
                 <label for="inputEmail4" class="form-label">Permission Name</label>
-                <input type="email" class="form-control" id="permission_name" name="permission_name">
+                <input type="email" class="form-control" id="role_name" name="role_name">
             </div>
       </div>
       <div class="modal-footer">
