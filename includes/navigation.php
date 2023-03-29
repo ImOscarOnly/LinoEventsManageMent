@@ -13,20 +13,20 @@
 				<div class="collapse navbar-collapse" id="navbars-host">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
-						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+						<li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">EVENTS </a>
 							<div class="dropdown-menu" aria-labelledby="dropdown-a">
-								<a class="dropdown-item" href="course-grid-2.html">PAPS </a>
-								<a class="dropdown-item" href="course-grid-3.html">SMEPA</a>
-								<a class="dropdown-item" href="course-grid-4.html">SBM </a>
+								<a class="dropdown-item" href="events.php">Project and Programs (PAPS)</a>
+								<a class="dropdown-item" href="eventsSMEPA.php">(SMEPA)</a>
+								<a class="dropdown-item" href="eventsSBM.php">School Base Management (SBM)</a>
 							</div>
 						</li>
-						<li class="nav-item"><a class="nav-link" href="teachers.html">Teachers</a></li>
-						<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+						<li class="nav-item"><a class="nav-link" href="teachers.php">Teachers</a></li>
+						<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
-                        <li><a class="hover-btn-new log orange" href="#" data-toggle="modal" data-target="#login"><span>Sign Up </span></a></li>
+                        <li><a class="hover-btn-new log orange" href="#" data-toggle="modal" data-target="#login"><span>Sign In </span></a></li>
                     </ul>
 				</div>
 			</div>
