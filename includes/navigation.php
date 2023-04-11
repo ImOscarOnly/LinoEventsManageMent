@@ -18,8 +18,7 @@
 							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">EVENTS </a>
 							<div class="dropdown-menu" aria-labelledby="dropdown-a">
 								<a class="dropdown-item" href="events.php">Project and Programs (PAPS)</a>
-								<a class="dropdown-item" href="eventsSMEPA.php">(SMEPA)</a>
-								<a class="dropdown-item" href="eventsSBM.php">School Base Management (SBM)</a>
+								<a class="dropdown-item" href="#">EVENTS GALLERY</a>
 							</div>
 						</li>
 						<li class="nav-item"><a class="nav-link" href="teachers.php">Teachers</a></li>

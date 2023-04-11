@@ -13,6 +13,8 @@
                 <div class="col-md-8 offset-md-2">
                     <h3>About</h3>
                     <p class="lead">* School ID : 300785 * School Name : Lino P. Bernardo National High School * School Name w/ Add : Lino P. Bernardo National High School, General Tinio (Papaya), Nueva Ecija * Short Name : LPBNHS * Previous Name : Bago HS * Address : Gulod * Municipality : General Tinio (Papaya) * Region : Region III * Province : Nueva Ecija * Division : Nueva Ecija * Legistative District : 4th District * Curricular Class : Junior High School with Senior High School * Date of Operation : Wednesday, January 01, 1975 * Sub-Classification : DepED Managed * School Type : School with no Annexes * Class Organization : Monograde * Telephone : none * Fax Number : none</p>
+                    <br>
+                    <h3><a href="glint-master/glint-master/glint-master/index.html">History</a></h3>
                 </div>
             </div><!-- end title -->
         
@@ -90,13 +92,7 @@
                             to better serve its stakeholders.</p>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6 col-12">
-					<div class="inner-hmv">
-						<div class="icon-box-hmv"><i class="flaticon-history"></i></div>
-						<h3>History</h3>
-						<div class="tr-pa">H</div>
-						<p>brief history</p>
-					</div>
+				
 				</div>
 			</div>
 		</div>
