@@ -33,7 +33,9 @@
               <div class="card-body">
               <div class="d-flex justify-content-between">
                   <h5 class="card-title mb-0">List of Offices</h5>
-                  <i style="font-size:25px; color:blue;" class="fa fa-plus-circle" aria-hidden="true"  id="create-new"></i>                  
+                  <button class="btn btn-success" style="border-radius:25px;">
+                    <i class="fa fa-plus-circle" aria-hidden="true"></i>
+                  </button>                  
                 </div>
                   <div class="table-responsive">
                     <table class="table">
