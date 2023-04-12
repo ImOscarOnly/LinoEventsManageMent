@@ -31,8 +31,8 @@
         <div class="container-fluid">
             <div class="card">
               <div class="card-body">
-              <div class="d-flex justify-content-between">
-                  <h5 class="card-title mb-0">List of Offices</h5>
+                  <div class="d-flex justify-content-between">
+                  <h5 class="card-title mb-0">List of Organizations</h5>
                   <i style="font-size:25px; color:blue;" class="fa fa-plus-circle" aria-hidden="true"  id="create-new"></i>                  
                 </div>
                   <div class="table-responsive">
@@ -40,8 +40,10 @@
                         <thead>
                             <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Office Name</th>
-                            <th scope="col">User Name</th>
+                            <th scope="col">Organization Type</th>
+                            <th scope="col">Organization Name</th>
+                            <th scope="col">Organization Leader</th>
+
                             <th scope="col">Actions</th>
                             </tr>
                         </thead>
@@ -52,8 +54,8 @@
             </div>
         </div>
         <?php include('layouts/foot.php'); ?>
-        <?php include('office/officeModal.php'); ?>
+        <?php include('organization/orgModal.php'); ?>
       </div>
   </div>
 <?php include('layouts/footer.php'); ?>
-<script src="office/office.js"></script>
+<script src="organization/org.js"></script>

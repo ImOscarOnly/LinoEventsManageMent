@@ -29,9 +29,9 @@
 								<div class="col-md-12 col-sm-12 text-right">
 									<div class="big-tagline">
 										<h2><strong>LPBNHS </strong> quality education</h2>
-											<a href="#" class="hover-btn-new"><span>Contact Us</span></a>
+											<a href="contact.php" class="hover-btn-new"><span>Contact Us</span></a>
 											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-											<a href="#" class="hover-btn-new"><span>Read More</span></a>
+											<a href="about.php" class="hover-btn-new"><span>Read More</span></a>
 									</div>
 								</div>
 							</div><!-- end row -->            
@@ -47,9 +47,9 @@
 								<div class="col-md-12 col-sm-12 text-left">
 									<div class="big-tagline">
 										<h2 data-animation="animated zoomInRight">HIGHLY RECOMMENDED <strong>education school</strong></h2>
-											<a href="#" class="hover-btn-new"><span>Contact Us</span></a>
+											<a href="contact.php" class="hover-btn-new"><span>Contact Us</span></a>
 											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-											<a href="#" class="hover-btn-new"><span>Read More</span></a>
+											<a href="about.php" class="hover-btn-new"><span>Read More</span></a>
 									</div>
 								</div>
 							</div><!-- end row -->            
@@ -65,9 +65,9 @@
 								<div class="col-md-12 col-sm-12 text-center">
 									<div class="big-tagline">
 										<h2 data-animation="animated zoomInRight"><strong>POWER </strong> THRU KNOWLEDGE</h2>
-											<a href="#" class="hover-btn-new"><span>Contact Us</span></a>
+											<a href="contact.php" class="hover-btn-new"><span>Contact Us</span></a>
 											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-											<a href="#" class="hover-btn-new"><span>Read More</span></a>
+											<a href="about.php" class="hover-btn-new"><span>Read More</span></a>
 									</div>
 								</div>
 							</div><!-- end row -->            
@@ -105,7 +105,7 @@
                         <h2>Welcome to Lino P. Bernardo High school</h2>
                         <p>Lino P. Bernardo High school offers different curiculum</p>
 
-                        <a href="#" class="hover-btn-new orange"><span>Learn More</span></a>
+                        <a href="about.php" class="hover-btn-new orange"><span>Learn More</span></a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 				

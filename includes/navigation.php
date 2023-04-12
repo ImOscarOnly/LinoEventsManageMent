@@ -15,6 +15,13 @@
 						<li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
 						<li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
 						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">INSTITUTIONS</a>
+							<div class="dropdown-menu" aria-labelledby="dropdown-a">
+								<a class="dropdown-item" href="organization.php">ORGANIZATION</a>
+								<a class="dropdown-item" href="offices.php">OFFICES</a>
+							</div>
+						</li>
+						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">EVENTS </a>
 							<div class="dropdown-menu" aria-labelledby="dropdown-a">
 								<a class="dropdown-item" href="events.php">Project and Programs (PAPS)</a>

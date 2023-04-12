@@ -8,7 +8,7 @@
               <li class="sidebar-item">
                 <a
                   class="sidebar-link waves-effect waves-dark sidebar-link"
-                  href="index.html"
+                  href="index.php"
                   aria-expanded="false"
                   ><i class="mdi mdi-view-dashboard"></i
                   ><span class="hide-menu">Dashboard</span></a
@@ -24,13 +24,13 @@
                 >
                 <ul aria-expanded="false" class="collapse first-level">
                   <li class="sidebar-item">
-                    <a href="form-basic.html" class="sidebar-link"
+                    <a href="rolesIndex.php" class="sidebar-link"
                       ><i class="mdi mdi-note-outline"></i
                       ><span class="hide-menu"> Roles </span></a
                     >
                   </li>
                   <li class="sidebar-item">
-                    <a href="form-wizard.html" class="sidebar-link"
+                    <a href="usersIndex.php" class="sidebar-link"
                       ><i class="mdi mdi-note-plus"></i
                       ><span class="hide-menu"> Users </span></a
                     >
@@ -49,7 +49,7 @@
               <li class="sidebar-item">
                 <a
                   class="sidebar-link waves-effect waves-dark sidebar-link"
-                  href="index.html"
+                  href="organizationIndex.php"
                   aria-expanded="false"
                   ><i class="mdi mdi-view-dashboard"></i
                   ><span class="hide-menu">Organizations</span></a

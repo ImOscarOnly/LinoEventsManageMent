@@ -32,16 +32,15 @@
             <div class="card">
               <div class="card-body">
               <div class="d-flex justify-content-between">
-                  <h5 class="card-title mb-0">List of Offices</h5>
-                  <i style="font-size:25px; color:blue;" class="fa fa-plus-circle" aria-hidden="true"  id="create-new"></i>                  
+                  <h5 class="card-title mb-0">List of roles</h5>
+                  <i style="font-size:25px; color:blue;" class="fa fa-plus-circle" aria-hidden="true"  id="create-new"></i>                
                 </div>
                   <div class="table-responsive">
                     <table class="table">
                         <thead>
                             <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Office Name</th>
-                            <th scope="col">User Name</th>
+                            <th scope="col">Role Name</th>
                             <th scope="col">Actions</th>
                             </tr>
                         </thead>
@@ -52,8 +51,8 @@
             </div>
         </div>
         <?php include('layouts/foot.php'); ?>
-        <?php include('office/officeModal.php'); ?>
+        <?php include('roles/rolesModal.php'); ?>
       </div>
   </div>
 <?php include('layouts/footer.php'); ?>
-<script src="office/office.js"></script>
+<script src="roles/roles.js"></script>

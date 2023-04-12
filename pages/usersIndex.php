@@ -32,28 +32,28 @@
             <div class="card">
               <div class="card-body">
               <div class="d-flex justify-content-between">
-                  <h5 class="card-title mb-0">List of Offices</h5>
+                  <h5 class="card-title mb-0">List of Users</h5>
                   <i style="font-size:25px; color:blue;" class="fa fa-plus-circle" aria-hidden="true"  id="create-new"></i>                  
-                </div>
-                  <div class="table-responsive">
+                </div>                  <div class="table-responsive">
                     <table class="table">
                         <thead>
                             <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Office Name</th>
                             <th scope="col">User Name</th>
+                            <!-- <th scope="col">User Role</th>
+                            <th scope="col">User Office</th> -->
                             <th scope="col">Actions</th>
                             </tr>
                         </thead>
-                        <tbody id="rioMainTable"></tbody>
+                        <tbody id="linoMainTable"></tbody>
                     </table>
                 </div>
               </div>
             </div>
         </div>
         <?php include('layouts/foot.php'); ?>
-        <?php include('office/officeModal.php'); ?>
+        <?php include('users/rolesModal.php'); ?>
       </div>
   </div>
 <?php include('layouts/footer.php'); ?>
-<script src="office/office.js"></script>
+<script src="users/roles.js"></script>
