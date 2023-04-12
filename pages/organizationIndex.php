@@ -33,8 +33,10 @@
               <div class="card-body">
                   <div class="d-flex justify-content-between">
                   <h5 class="card-title mb-0">List of Organizations</h5>
-                  <i style="font-size:25px; color:blue;" class="fa fa-plus-circle" aria-hidden="true"  id="create-new"></i>                  
-                </div>
+                  <button class="btn btn-success" id="create-new" style="border-radius:15px; font-size:20px;">
+                    <i class="fa fa-plus-circle" aria-hidden="true"></i>
+                  </button>                
+                 </div>
                   <div class="table-responsive">
                     <table class="table">
                         <thead>

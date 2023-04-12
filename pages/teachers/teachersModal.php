@@ -1,8 +1,8 @@
-<div class="modal fade" id="rioModal" tabindex="-1" aria-labelledby="rioModalLabel" aria-hidden="true">
+<div class="modal fade" id="linoModal" tabindex="-1" aria-labelledby="linoModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="rioModalLabel"></h5>
+        <h5 class="modal-title" id="linoModalLabel"></h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
@@ -10,8 +10,10 @@
         <input type="hidden" id="method" name="update">
         <input type="hidden" name="id" id="id">
             <div class="col-md-12">
-                <label for="inputEmail4" class="form-label">Office Name</label>
-                <input type="email" class="form-control" id="office_name" name="office_name">
+                <label for="inputEmail4" class="form-label">Teacher Name</label>
+                <input type="email" class="form-control" id="teacher_name" name="teacher_name">
+                <label for="inputEmail4" class="form-label">Faculty Member</label>
+                <input type="email" class="form-control" id="faculty_member" name="faculty_member">
             </div>
       </div>
       <div class="modal-footer">

@@ -33,7 +33,7 @@
               <div class="card-body">
               <div class="d-flex justify-content-between">
                   <h5 class="card-title mb-0">List of Offices</h5>
-                  <button class="btn btn-success" style="border-radius:25px;">
+                  <button class="btn btn-success" id="create-new" style="border-radius:15px; font-size:20px;">
                     <i class="fa fa-plus-circle" aria-hidden="true"></i>
                   </button>                  
                 </div>
